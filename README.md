@@ -42,4 +42,4 @@ Apaixonado pela área de Tecnologia da Informação e segurança da informação
  
 ## Top Languages
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgomessec&layout=compact)
