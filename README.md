@@ -1,5 +1,5 @@
 # Olá, Eu sou Victor Gomes 👨🏼‍💻 
-
+<script src="https://tryhackme.com/badge/997635"></script>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=victorgomessec.repoName)
 ---
 <h4 align="center">
