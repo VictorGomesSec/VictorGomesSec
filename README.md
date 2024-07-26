@@ -1,5 +1,6 @@
 # Olá, Eu sou Victor Gomes 👨🏼‍💻 
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Lvzinn.png" alt="TryHackMe">
 
 ---
 <h4 align="center">
