@@ -1,10 +1,10 @@
 # Olá, Eu sou Victor Gomes 👨🏼‍💻 
-<script src="https://tryhackme.com/badge/997635"></script>
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=victorgomessec.repoName)
+
+
 ---
 <h4 align="center">
-
-
+  
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=victorgomessec.repoName)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/victorgomessec)](https://www.linkedin.com/in/victorlinsgomes)
   
   ## Tech Stack
